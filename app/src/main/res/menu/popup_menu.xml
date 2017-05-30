@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/zero"
+        android:popupBackground="@android:color/darker_gray"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:title="Rating Out Of 5 Stars"/>
+
+    <item
+        android:id="@+id/one"
+        android:popupBackground="@android:color/darker_gray"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:title="1"/>
+
+    <item
+        android:id="@+id/two"
+        android:popupBackground="@android:color/darker_gray"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:title="2"/>
+
+    <item
+        android:id="@+id/three"
+        android:popupBackground="@android:color/darker_gray"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:title="3"/>
+    <item
+        android:id="@+id/Four"
+        android:popupBackground="@android:color/darker_gray"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:title="4"/>
+    <item
+        android:id="@+id/Five"
+        android:popupBackground="@android:color/darker_gray"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:title="5"/>
+
+</menu>

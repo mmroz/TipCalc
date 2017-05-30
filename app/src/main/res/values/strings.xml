@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+
+    <string name="country_prompt">Choose a currency</string>
+
+    <string-array name="country_arrays">
+        <item>$</item>
+        <item>£</item>
+        <item>€</item>
+    </string-array>
+
+</resources>
